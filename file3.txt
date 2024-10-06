@@ -3,3 +3,5 @@ file3 here - edited in branch2
 
 so finally solved the merged conflicts
 whats now?
+this is going to be stash 
+

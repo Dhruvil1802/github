@@ -1,5 +1,3 @@
-
 file3 here - edited in branch1
-
 file3 here - edited in branch2
 
